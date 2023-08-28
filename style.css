@@ -1,0 +1,47 @@
+.gradient{
+    background: linear-gradient(#4A55A2, #7895CB, #A0BFE0, #C5DFF8); 
+}
+
+.name-h{
+    color: white;
+    font-family: sans-serif;
+}
+
+.title-h{
+    color: white;
+}
+
+.icon-link{
+    color: rgb(62, 74, 83);
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.cv-link{
+    background-color: #C5DFF8;
+    width: 330px;
+    border-radius: 50px;
+    font-family: sans-serif;
+    text-decoration: "none";
+}
+
+.dog-img{
+    border-radius: 50px;
+}
+
+.about-me{
+    font-weight: 350;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #C5DFF8;
+}
+
+.gradient-buttom{
+    background: linear-gradient( #A0BFE0, #7895CB ); 
+}
+
+
